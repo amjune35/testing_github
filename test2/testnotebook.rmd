@@ -5,6 +5,8 @@ date: "2025-09-13"
 output: html_notebook
 ---
 
+Ok so I guess this has an html file and an rmd file linked to it? cool
+
 ## Installing Packages
 ```{r}
 library(vegan)
