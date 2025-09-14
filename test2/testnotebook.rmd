@@ -1,0 +1,22 @@
+---
+title: "Testing R Notebook"
+author: "Alicia June"
+date: "2025-09-13"
+output: html_notebook
+---
+
+## Installing Packages
+```{r}
+library(vegan)
+library(tidyverse)
+library(iNEXT)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+
+```
+
+
+
